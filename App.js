@@ -62,14 +62,8 @@ export default function App() {
       
       
 </MapView>
-    
-      
-    
-    
-      
-    
+  
   ) : <ActivityIndicator style={{flex: 1}} animating size="large" />  
-
 
 };
 
